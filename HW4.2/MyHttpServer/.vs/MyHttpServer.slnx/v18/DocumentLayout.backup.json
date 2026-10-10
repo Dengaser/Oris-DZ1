@@ -1,0 +1,231 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\handlers\\staticfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\handlers\\staticfilehandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\attributes\\postattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\attributes\\postattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\results\\fileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\results\\fileresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\core\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\core\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\handlers\\controllerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\handlers\\controllerhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\controllers\\authcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\attributes\\httpcontrollerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\attributes\\httpcontrollerattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\attributes\\getattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\attributes\\getattribute.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\handlers\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\handlers\\handler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\results\\textresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\results\\textresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\framework\\results\\iresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\framework\\results\\iresponseresult.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|c:\\users\\denga\\source\\repos\\myhttpserver\\myhttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{97F6D058-7CF6-8511-9DBC-F7A40445BECC}|MyHttpServer\\MyHttpServer.csproj|solutionrelative:myhttpserver\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 6,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Program.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Program.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Program.cs",
+              "RelativeToolTip": "MyHttpServer\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:47:20.299Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Core\\HttpServer.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Core\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Core\\HttpServer.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Core\\HttpServer.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAqwCgAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:40:01.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TextResult.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Results\\TextResult.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Results\\TextResult.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Results\\TextResult.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Results\\TextResult.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAIwAYAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:32:41.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "FileResult.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Results\\FileResult.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Results\\FileResult.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Results\\FileResult.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Results\\FileResult.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAgwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:32:05.193Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "IResponseResult.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Results\\IResponseResult.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Results\\IResponseResult.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Results\\IResponseResult.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Results\\IResponseResult.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T13:31:47.418Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Handler.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Handlers\\Handler.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Handlers\\Handler.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Handlers\\Handler.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Handlers\\Handler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-09T11:59:31.556Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "StaticFileHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Handlers\\StaticFileHandler.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Handlers\\StaticFileHandler.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Handlers\\StaticFileHandler.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Handlers\\StaticFileHandler.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAWwCoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T21:05:34.231Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ControllerHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Handlers\\ControllerHandler.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Handlers\\ControllerHandler.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Handlers\\ControllerHandler.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Handlers\\ControllerHandler.cs",
+              "ViewState": "AgIAABAAAAAAAAAAAAAQwJIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T21:00:19.547Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PostAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Attributes\\PostAttribute.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Attributes\\PostAttribute.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Attributes\\PostAttribute.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Attributes\\PostAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T20:45:25.139Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "GetAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Attributes\\GetAttribute.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Attributes\\GetAttribute.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Attributes\\GetAttribute.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Attributes\\GetAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T20:43:22.264Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HttpControllerAttribute.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Attributes\\HttpControllerAttribute.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Framework\\Attributes\\HttpControllerAttribute.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Framework\\Attributes\\HttpControllerAttribute.cs",
+              "RelativeToolTip": "MyHttpServer\\Framework\\Attributes\\HttpControllerAttribute.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T20:34:39.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "AuthController.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Controllers\\AuthController.cs",
+              "RelativeDocumentMoniker": "MyHttpServer\\Controllers\\AuthController.cs",
+              "ToolTip": "C:\\Users\\Denga\\source\\repos\\MyHttpServer\\MyHttpServer\\Controllers\\AuthController.cs",
+              "RelativeToolTip": "MyHttpServer\\Controllers\\AuthController.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAA7wBoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-08T16:35:26.97Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
