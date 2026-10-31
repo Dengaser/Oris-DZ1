@@ -1,0 +1,16 @@
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\bin\Debug\net8.0\settings.json
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\bin\Debug\net8.0\AdsServer.exe
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\bin\Debug\net8.0\AdsServer.deps.json
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\bin\Debug\net8.0\AdsServer.runtimeconfig.json
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\bin\Debug\net8.0\AdsServer.dll
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\bin\Debug\net8.0\AdsServer.pdb
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\AdsServer.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\AdsServer.AssemblyInfoInputs.cache
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\AdsServer.AssemblyInfo.cs
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\AdsServer.csproj.CoreCompileInputs.cache
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\AdsServer.dll
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\refint\AdsServer.dll
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\AdsServer.pdb
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\AdsServer.genruntimeconfig.cache
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\ref\AdsServer.dll
+C:\Users\Denga\Downloads\AdsProject\AdsProject\AdsServer\obj\Debug\net8.0\AdsServer.csproj.Up2Date

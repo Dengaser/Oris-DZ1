@@ -1,0 +1,106 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Denga\\Downloads\\AdsProject\\AdsProject\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AdsServer\\AdsServer.csproj|c:\\users\\denga\\downloads\\adsproject\\adsproject\\adsserver\\framework\\adschainhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AdsServer\\AdsServer.csproj|solutionrelative:adsserver\\framework\\adschainhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AdsServer\\AdsServer.csproj|c:\\users\\denga\\downloads\\adsproject\\adsproject\\adsserver\\framework\\fallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AdsServer\\AdsServer.csproj|solutionrelative:adsserver\\framework\\fallbackhandler.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AdsServer\\AdsServer.csproj|c:\\users\\denga\\downloads\\adsproject\\adsproject\\adsserver\\framework\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AdsServer\\AdsServer.csproj|solutionrelative:adsserver\\framework\\httpserver.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AdsServer\\AdsServer.csproj|c:\\users\\denga\\downloads\\adsproject\\adsproject\\adsserver\\adsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{11111111-1111-1111-1111-111111111111}|AdsServer\\AdsServer.csproj|solutionrelative:adsserver\\adsmodule.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AdsChainHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\Downloads\\AdsProject\\AdsProject\\AdsServer\\Framework\\AdsChainHandler.cs",
+              "RelativeDocumentMoniker": "AdsServer\\Framework\\AdsChainHandler.cs",
+              "ToolTip": "C:\\Users\\Denga\\Downloads\\AdsProject\\AdsProject\\AdsServer\\Framework\\AdsChainHandler.cs",
+              "RelativeToolTip": "AdsServer\\Framework\\AdsChainHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABUAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:07:48.701Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "FallbackHandler.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\Downloads\\AdsProject\\AdsProject\\AdsServer\\Framework\\FallbackHandler.cs",
+              "RelativeDocumentMoniker": "AdsServer\\Framework\\FallbackHandler.cs",
+              "ToolTip": "C:\\Users\\Denga\\Downloads\\AdsProject\\AdsProject\\AdsServer\\Framework\\FallbackHandler.cs",
+              "RelativeToolTip": "AdsServer\\Framework\\FallbackHandler.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAEAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:07:41.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "HttpServer.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\Downloads\\AdsProject\\AdsProject\\AdsServer\\Framework\\HttpServer.cs",
+              "RelativeDocumentMoniker": "AdsServer\\Framework\\HttpServer.cs",
+              "ToolTip": "C:\\Users\\Denga\\Downloads\\AdsProject\\AdsProject\\AdsServer\\Framework\\HttpServer.cs",
+              "RelativeToolTip": "AdsServer\\Framework\\HttpServer.cs",
+              "ViewState": "AgIAAFUAAAAAAAAAAAAwwGIAAAAwAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:07:22.977Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AdsModule.cs",
+              "DocumentMoniker": "C:\\Users\\Denga\\Downloads\\AdsProject\\AdsProject\\AdsServer\\AdsModule.cs",
+              "RelativeDocumentMoniker": "AdsServer\\AdsModule.cs",
+              "ToolTip": "C:\\Users\\Denga\\Downloads\\AdsProject\\AdsProject\\AdsServer\\AdsModule.cs",
+              "RelativeToolTip": "AdsServer\\AdsModule.cs",
+              "ViewState": "AgIAAAgBAAAAAAAAAAAuwAEBAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-10-31T12:06:18.273Z",
+              "EditorCaption": ""
+            }
+          ]
+        },
+        {
+          "DockedWidth": 154,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{d78612c7-9962-4b83-95d9-268046dad23a}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
